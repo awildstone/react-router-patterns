@@ -1,0 +1,14 @@
+.NavBar {
+	background-color: black;
+	padding: 10px;
+	color: white;
+}
+
+.NavBar a {
+	color: white;
+	padding-right: 20px;
+}
+
+.NavBar a.active {
+	color: teal;
+}
